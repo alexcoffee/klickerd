@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="71dd01f5-087f-472d-84f0-b844405ff585" name="CIRCUITPY" url="http://localhost">
+        <fileTransfer mountedRoot="/media/alex/CIRCUITPY" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
